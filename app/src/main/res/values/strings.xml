@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JosephBelliWalMartChallenge</string>
+    <string name="country_name">Name</string>
+    <string name="country_region">Region</string>
+    <string name="country_code">Code</string>
+    <string name="country_capital">Capital</string>
+</resources>
